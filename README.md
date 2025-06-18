@@ -1,5 +1,11 @@
 # ♟️ Recursive Decision Agents
 
+![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue)
+![No Dependencies](https://img.shields.io/badge/Dependencies-None-lightgrey)
+![Last Commit](https://img.shields.io/github/last-commit/apurvasharma03/recursive-decision-agents)
+![Agents](https://img.shields.io/badge/Agents-Minimax%2C%20Alpha--Beta%2C%20Random-brightgreen)
+
+
 A simulation framework for evaluating adversarial search strategies in deterministic, turn-based environments. This project implements and compares multiple AI agents—Random, Minimax, and Alpha-Beta Pruned—on a flexible board-based game engine to analyze decision-making under zero-sum, perfect-information conditions.
 
 ---
